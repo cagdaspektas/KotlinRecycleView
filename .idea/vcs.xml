@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bitirmeprojesi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bitirmeprojesiokul" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cumhuriyet_mobile/Cumhuriyet-Mobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutterCodes/Makeup/MakeupApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutterCodes/bizeozel/bizeozel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutterCodes/yazilimAtolyesiAkademi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mathApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/meetoz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobx_ilk_uygulama/mobx_project/mobxfirstapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sms_login_firebase" vcs="Git" />
+  </component>
+</project>
